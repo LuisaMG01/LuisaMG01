@@ -1,16 +1,10 @@
 # Welcome to My Profile! 👋
 
-## About Me
-
-I am a passionate Computer Science student at EAFIT with a love for mathematics and programming. Currently finishing my degree, I am fascinated by the intersection of mathematics and computer science, especially in the realm of optimizations.
-
-<div align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2lzank0eG1wZnhyNDF5ejduOWZoMnZzOGJsMjA3cDZocTloMmUxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="200" />
-</div>
+Hello! I'm Luisa Garcia, a dedicated Computer Science student at EAFIT, passionate about the marriage of mathematics and programming. As I approach the completion of my degree, I find joy in exploring the fascinating world of optimizations within the intersection of mathematics and computer science.
 
 ## Contact Me 📩
 
-If you want to connect or discuss potential projects, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/luisa-garcia-aa5ab31a4/).
+Let's connect and discuss exciting projects! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/luisa-garcia-aa5ab31a4/). I'm always open to collaborations and new opportunities.
 
 ## Technical Skills 📈
 
@@ -34,7 +28,7 @@ I am comfortable working with various development platforms:
 
 ## Hobbies ⌨️
 
-Aside from my academic pursuits, I also enjoy competitive programming, honing my skills in optimization and problem-solving:
+Beyond academia, I thrive in competitive programming, refining my skills in optimization and problem-solving:
 
 <div align="center" id="languages">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
@@ -43,9 +37,11 @@ Aside from my academic pursuits, I also enjoy competitive programming, honing my
 
 ## General Information 💾
 
-Explore some stats about my GitHub contributions:
+Discover some insights into my GitHub contributions:
 
 <div align="center" id="general">
     <img src="https://github-readme-stats.vercel.app/api?username=LuisaMG01&theme=blue-green" width="400" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisaMG01&theme=blue-green" width="315" />
 </div>
+
+Feel free to explore, connect, and let's embark on exciting coding adventures together! 🚀
