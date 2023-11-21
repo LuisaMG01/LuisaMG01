@@ -3,7 +3,11 @@
 <div align="center" id="hola">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2lzank0eG1wZnhyNDF5ejduOWZoMnZzOGJsMjA3cDZocTloMmUxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="200" />
     </div>
-    # I am a computer Science student 💻
+
+    
+# I am a computer Science student 💻
+
+    
 I like mathematics and programming. I am in love with how mathematics could make optimizations and how important it is for 
         computer science. Currently, I am finishing my computer science degree at EAFIT.
     
